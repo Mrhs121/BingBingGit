@@ -1,3 +1,4 @@
+sheng
 测试暂存区操作
 git log查看日志
 git log -5 --pretty=oneline简化日志输出
